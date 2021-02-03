@@ -1,0 +1,2 @@
+# ADayInGoldenGatePark
+A Day In Golden Gate Park is an interactive web experience that celebrates the famous park and three distinct park attractions—built using p5.play, html and css. The first game allows users to explore the conservatory and learn about various flowers. The second game gives the user an opportunity to test out their archery skills. Finally, the third game will take the user through Stow Lake where they can ride a bike along the water. The visuals were inspired by designer Michael Schwab's original national park's identity system.
