@@ -1,0 +1,152 @@
+body{
+/*    background-color: #6e9e75;*/
+    background-color: #479968;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background: black;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+   height: 50px;
+   
+    
+}
+
+
+#conservatorynav{
+ flex-grow: .09;
+     font-size: 12px;
+
+}
+
+
+
+#title{
+    margin-top: 110px;
+    text-align: center;
+    font-family: futura-pt, sans-serif;
+    font-size: 70px;
+    color: #f8f7d1;
+    
+}
+
+#posters{
+    margin-top: 190px;
+
+    height: 200px;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+    margin-right:70px;
+    
+}
+
+#posters a {
+    margin-right: -80px;
+}
+
+#date{
+    font-family: futura-pt, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -30px;
+    color: #f8f7d1;
+    color:black;
+    
+    
+}
+
+#introinfo{
+    font-family: futura-pt, sans-serif;
+    font-size: 20px;
+    margin-top: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: #f8f7d1;
+    color:black;
+}
+
+
+/******LAST PAGE****/
+
+
+
+#endtitle{
+    margin-top: 50px;
+    text-align: center;
+    font-family: futura-pt, sans-serif;
+    font-size: 58px;
+    color: #f8f7d1;
+    
+}
+#endinfo{
+    font-family: futura-pt, sans-serif;
+    font-size: 20px;
+    margin-top: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:160px;
+    margin-right: 180px;
+    color: #f8f7d1;
+    color:black;
+}
+
+
+#endlink{
+    font-family: futura-pt, sans-serif;
+    font-size: 18px;
+    color: #f8f7d1;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+      width: 200px;
+    
+}
+
+#endlink2{
+   
+    font-family: futura-pt, sans-serif;
+    font-size: 18px;
+    color: #f8f7d1;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    
+}
+
+#endlink:hover{
+     transform: rotate(-12deg);
+}
+#endlink2:hover{
+     transform: rotate(12deg);
+}
+
+#images{
+    margin-top: 100px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
